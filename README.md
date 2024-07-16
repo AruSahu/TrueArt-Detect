@@ -20,8 +20,3 @@ TrueArt Detect is an AI-powered framework designed to distinguish between human-
 - Developed in April 2024
 - Addresses the growing need for authenticity verification in the digital art market
 - Supports artists in maintaining the value of their original creations
-
-## Getting Started
-[Include instructions for setup and usage here]
-
-## Contributors
